@@ -10,13 +10,19 @@ Automotive Engineer interested in EV systems, vehicle control, simulation and di
 
 ## Projects
 
-🚗 **Inverter Digital Twin for Condition Monitoring**  
+### 🚗 Inverter Digital Twin for Condition Monitoring
+
 MATLAB/Simulink based digital twin for inverter monitoring, fault diagnosis and predictive maintenance.
 
-🔋 **Hybrid EV Powertrain Modelling**  
+Repository:
+https://github.com/mwasib01/inverter-digital-twin-monitoring
+
+### 🔋 Hybrid EV Powertrain Modelling
+
 Series hybrid vehicle modelling and energy management using MATLAB/Simulink and Ricardo WAVE.
 
-🏎️ **Formula Student Racing**
+### 🏎 Formula Student Racing
+
 Suspension and vehicle dynamics work with BCU Racing Formula Student team.
 
 ## Tools
@@ -27,6 +33,3 @@ MATLAB | Simulink | ANSYS | SolidWorks | Ricardo WAVE | MSC ADAMS | Python
 
 LinkedIn:
 https://www.linkedin.com/in/muhammad-wasib-561463218/
-
-GitHub:
-https://github.com/mwasib01
